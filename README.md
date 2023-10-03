@@ -22,10 +22,12 @@ Item_Outlet_Sales         | Sales of the product in the particulat store. This i
 <li>pandas
 <li>matplotlib
 <li>seaborn
-<li>scikit-learn
+<li>sk-learn
 
 # Algorithms
 
 <li>Linear Regression
 <li>Ridge
 <li>Lasso
+
+if you have any doubt just dm - https://www.instagram.com/kaushik_dahale/
